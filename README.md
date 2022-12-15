@@ -1,0 +1,2 @@
+# LHhomepage
+homepage for lazyhoge
